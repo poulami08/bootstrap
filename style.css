@@ -1,0 +1,9 @@
+.btn-danger:hover{
+    border-color: rgb(102, 2, 2);
+   }
+   .btn-primary:hover{
+     border-color: blue;
+   }
+   .btn-success:hover{
+     border-color: rgb(3, 88, 3);
+   }
